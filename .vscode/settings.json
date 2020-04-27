@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/usr/bin/python3.6",
+    "python.analysis.cacheFolderPath": "\"python.pythonPath\": \"/home/ubuntu/ml/env/bin/python\"",
+    "python.autoComplete.extraPaths": [
+        "./home/ubuntu/ml/env/projects/endtoendmlproject"
+    ],
+    "python.envFile": ".env" ,
+    "code-runner.executorMap": {},
+    "vsintellicode.features.python.deepLearning": "enabled"
+}
